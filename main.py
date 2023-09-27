@@ -1,8 +1,8 @@
 import smtplib
 
-sender = 'balenahmed70@gmail.com'
-receiver = 'balen.ahmed@ukh.edu.krd'
-password = 'pgkliyopykmxjnin'
+sender = 'balen@gmail.com'
+receiver = 'balen@ukh.edu.krd'
+password = ''
 subject = 'python email test'
 body = "Hello world, I am here"
 
